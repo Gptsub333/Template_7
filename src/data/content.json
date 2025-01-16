@@ -1,0 +1,166 @@
+{
+    "header": {
+      "contactInfo": ["456 544 ROSU", "rosu@dummy.com"],
+      "socialIcons": [
+        { "type": "FaFacebookF", "link": "https://facebook.com", "style": { "opacity": "0.6" } },
+        { "type": "BsTwitter", "link": "https://twitter.com", "style": { "opacity": "0.6" } },
+        { "type": "GrInstagram", "link": "https://instagram.com", "style": { "opacity": "0.6" } },
+        { "type": "GrLinkedinOption", "link": "https://linkedin.com", "style": { "opacity": "0.6" } }
+      ],
+      "menuItems": ["Home", "Service", "About", "Media"],
+      "logo": {
+        "src": "/public/Rosu Logo.svg",
+        "alt": "Web Logo"
+      }
+    },
+    "hero": {
+    "heading": "Getting to you in a<span class='text-yellow'> flash</span>",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis accumsan urna.",
+    "buttons": {
+      "quote": {
+        "text": "Get a Quote",
+        "icon": "ImTruck"
+      },
+      "learnMore": {
+        "text": "Learn More",
+        "icon": "HiArrowRight"
+      }
+    },
+    "images": {
+      "illustration": "../public/Hero_Illustration.svg",
+      "shipping": "/public/Shipping Image.jpg"
+    }
+  },
+  "services": {
+    "sectionTitle": "Services",
+    "heading": "Why choose us?",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis accumsan urna.",
+    "cards": [
+      {
+        "id": "1",
+        "title": "Real Time Tracking",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis accumsan urna."
+      },
+      {
+        "id": "2",
+        "title": "24/7 Customer Support",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis accumsan urna."
+      },
+      {
+        "id": "3",
+        "title": "Affordable Pricing",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis accumsan urna."
+      },
+      {
+        "id": "4",
+        "title": "Reliable Delivery",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis accumsan urna."
+      },
+      {
+        "id": "5",
+        "title": "Wide Coverage",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis accumsan urna."
+      },
+      {
+        "id": "6",
+        "title": "Eco-Friendly",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis accumsan urna."
+      }
+    ]
+  },"about": {
+    "sectionTitle": "About us",
+    "heading": "What is our mission?",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis accumsan urna. Quisque sed lacus eu nisi ultrices commodo ut ac ante. In et hendrerit tellus, sit amet sagittis urna. Maecenas tincidunt hendrerit ultricies. Nulla dui felis, hendrerit quis ligula id, pharetra sodales dui.",
+    "image": {
+      "src": "public/Ship Image.jpg",
+      "alt": "Ship Image"
+    },
+    "stats": [
+      {
+        "value": "25+",
+        "label": "Years of service"
+      },
+      {
+        "value": "2000+",
+        "label": "Employees"
+      },
+      {
+        "value": "150+",
+        "label": "Countries"
+      },
+      {
+        "value": "900+",
+        "label": "Couriers"
+      },
+      {
+        "value": "9000+",
+        "label": "Products Shipped"
+      },
+      {
+        "value": "50+",
+        "label": "Business Partners"
+      }
+    ]
+  },"partners": {
+    "sectionTitle": "Partners",
+    "heading": "They are our top partners",
+    "partnersList": [
+      {
+        "brandName": "Brand A",
+        "logo": "path/to/logoA.png"
+      },
+      {
+        "brandName": "Brand B",
+        "logo": "path/to/logoB.png"
+      },
+      {
+        "brandName": "Brand C",
+        "logo": "path/to/logoC.png"
+      },
+      {
+        "brandName": "Brand D",
+        "logo": "path/to/logoD.png"
+      }
+    ]
+  },
+  "quote": {
+    "sectionTitle": "Get a Quote",
+    "heading": "Start ordering with us today",
+    "button": {
+      "text": "Order with us",
+      "icon": "ImTruck"
+    },
+    "image": {
+      "src": "/public/Quote 3 lines.svg",
+      "alt": "Quote Image"
+    }
+  },
+  "footer": {
+    "logo": {
+      "src": "public/Rosu Logo.svg",
+      "alt": "Logo Image"
+    },
+    "about": {
+      "title": "About Us",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis accumsan urna."
+    },
+    "navigation": {
+      "title": "Navigation",
+      "links": ["Home", "Service", "About", "Media"]
+    },
+    "otherLinks": {
+      "title": "Other Links",
+      "links": ["Terms of service", "Cookies Policy", "GDPR Terms", "Contact Us"]
+    },
+    "social": {
+      "title": "Follow Us",
+      "icons": [
+        { "type": "FaFacebookF", "link": "https://facebook.com" },
+        { "type": "BsTwitter", "link": "https://twitter.com" },
+        { "type": "GrInstagram", "link": "https://instagram.com" },
+        { "type": "GrLinkedinOption", "link": "https://linkedin.com" }
+      ]
+    },
+    "copyright": "© 2023 Alex Benta. All rights reserved."
+  }
+}
